@@ -1,7 +1,7 @@
-100x Studios is a trailblazing technology firm, focused on delivering state-of-the-art solutions in the realms of web3, high-performance computing (HPC), clustering, and custom software development. With a team of industry veterans and innovative minds, we strive to set new standards in technological advancements and remain at the forefront of cutting-edge innovations.
+Thor Labs is a trailblazing technology firm, focused on delivering state-of-the-art solutions in the realms of web3, high-performance computing (HPC), clustering, and custom software development. With a team of industry veterans and innovative minds, we strive to set new standards in technological advancements and remain at the forefront of cutting-edge innovations.
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/131183359?s=200&v=4" alt="100x Studios Logo">
+ ![image](https://github.com/100xstudios/.github/assets/48356842/36e3b32b-cdae-45c8-9fa7-01791db0ae23)
 </p>
 Throughout our illustrious journey, we have successfully undertaken numerous projects, catering to the diverse needs of our esteemed clientele. These projects have allowed us to showcase our expertise and solidify our reputation as a leading tech provider.
 
@@ -11,6 +11,6 @@ In another high-profile project, we partnered with a renowned research institute
 
 We have also ventured into the realm of artificial intelligence (AI) and machine learning, having developed a cutting-edge AI-driven customer support system for a prominent e-commerce company. The system significantly improved response times and customer satisfaction rates, setting a new benchmark for the industry.
 
-At 100x Studios, we believe in fostering a culture of innovation and nurturing talent. Our team of seasoned professionals, with their diverse skill sets and rich experiences, enables us to deliver bespoke solutions tailored to the unique requirements of each client. As a testament to our commitment to excellence, we have been recognized with multiple industry awards and accolades.
+At Thor Labs, we believe in fostering a culture of innovation and nurturing talent. Our team of seasoned professionals, with their diverse skill sets and rich experiences, enables us to deliver bespoke solutions tailored to the unique requirements of each client. As a testament to our commitment to excellence, we have been recognized with multiple industry awards and accolades.
 
-In an ever-evolving technological landscape, 100x Studios is dedicated to empowering our clients with the tools and expertise needed to stay ahead of the curve. By constantly pushing the boundaries of what's possible, we strive to make a lasting impact on the world and drive the technology industry forward.
+In an ever-evolving technological landscape, Thor Labs Studios is dedicated to empowering our clients with the tools and expertise needed to stay ahead of the curve. By constantly pushing the boundaries of what's possible, we strive to make a lasting impact on the world and drive the technology industry forward.
