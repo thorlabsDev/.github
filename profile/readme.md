@@ -1,8 +1,9 @@
 Thor Labs is a trailblazing technology firm, focused on delivering state-of-the-art solutions in the realms of web3, high-performance computing (HPC), clustering, and custom software development. With a team of industry veterans and innovative minds, we strive to set new standards in technological advancements and remain at the forefront of cutting-edge innovations.
 
 <p align="center">
- [image](https://github.com/100xstudios/.github/assets/48356842/36e3b32b-cdae-45c8-9fa7-01791db0ae23)
+ <img src="https://github.com/100xstudios/.github/assets/48356842/36e3b32b-cdae-45c8-9fa7-01791db0ae23" alt="ThorLabs Banner">
 </p>
+
 Throughout our illustrious journey, we have successfully undertaken numerous projects, catering to the diverse needs of our esteemed clientele. These projects have allowed us to showcase our expertise and solidify our reputation as a leading tech provider.
 
 One of our most notable projects involved designing and implementing a web3-based, decentralized finance (DeFi) platform for a major fintech organization. This groundbreaking platform revolutionized the way users interact with financial services, offering unparalleled security and transparency.
