@@ -1,7 +1,7 @@
 Thor Labs is a trailblazing technology firm, focused on delivering state-of-the-art solutions in the realms of web3, high-performance computing (HPC), clustering, and custom software development. With a team of industry veterans and innovative minds, we strive to set new standards in technological advancements and remain at the forefront of cutting-edge innovations.
 
 <p align="center">
- ![image](https://github.com/100xstudios/.github/assets/48356842/36e3b32b-cdae-45c8-9fa7-01791db0ae23)
+ [image](https://github.com/100xstudios/.github/assets/48356842/36e3b32b-cdae-45c8-9fa7-01791db0ae23)
 </p>
 Throughout our illustrious journey, we have successfully undertaken numerous projects, catering to the diverse needs of our esteemed clientele. These projects have allowed us to showcase our expertise and solidify our reputation as a leading tech provider.
 
